@@ -1,8 +1,8 @@
 
 {
-  "name": "Hassan-Md",
+  "name": "Baraka-Md",
   "version": "10.8.1",
-  "description": "Hassan-Md latest multi device whatsapp bot",
+  "description": "Baraka-Md latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "stop": "pm2 stop Baraka-Md",
     "restart": "pm2 restart Baraka-Md"
   },
-  "keywords": ["Hassan-Md", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["Baraka-Md", "whatsapp-bot", "whatsapp md bot"],
   "author": "Hassan Bega",
   "license": "ISC",
   "dependencies": {
